@@ -85,15 +85,15 @@ function App() {
 const sampleRecipes = [
   {
     id: 1,
-    name: 'Plain Chicken',
+    name: 'Plain Chick-Peas',
     servings: 3,
     cookTime: '1:45',
-    instructions: "1. Put salt on chicken\n2. Put chicken in oven\n3. Eat chicken",
+    instructions: "1. Put salt on chick-peas\n2. Put chick-peas in oven\n3. Eat chick-peas",
     ingredients: [
       {
         id: 1,
-        name: 'Chicken',
-        amount: '2 Pounds'
+        name: 'Chick-peas',
+        amount: '2 Kgs'
       },
       {
         id: 2,
@@ -104,15 +104,15 @@ const sampleRecipes = [
   },
   {
     id: 2,
-    name: 'Plain Pork',
+    name: 'Plain Paneer',
     servings: 5,
-    cookTime: '0:45',
-    instructions: "1. Put paprika on pork\n2. Put pork in Oven\n3. Eat pork",
+    cookTime: '5:45',
+    instructions: "1. Put paprika on Paneer\n2. Put Paneer in Oven\n3. Eat Paneer",
     ingredients: [
       {
         id: 1,
-        name: 'Pork',
-        amount: '3 Pounds'
+        name: 'Paneer',
+        amount: '3 Kgs'
       },
       {
         id: 2,
